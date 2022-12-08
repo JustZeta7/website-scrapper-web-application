@@ -1,6 +1,10 @@
 # website-scrapper-web-application
 PUBMED.gov scrapper. Built in the Django framework as a web appliciation.
 
+Brief about the project:
+ It basically collects data (scrape) like title, abstract e.t.c., from the pubmed website
+ and puts them in a excel file.
+
 Tools used : Python, Django Framework, Html, CSS.
 
 ## Website Preview:
