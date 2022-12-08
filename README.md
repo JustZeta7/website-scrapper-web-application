@@ -3,13 +3,15 @@ PUBMED.gov scrapper. Built in the Django framework as a web appliciation.
 
 Tools used : Python, Django Framework, Html, CSS.
 
-### Website Preview
+## Website Preview:
+### HomePage:
 <p align="center"> 
   <kbd>
     <img src="pubmed/screenshots/hp.png">
   </kbd>
 </p>
 
+### SummaryPage:
 <p align="center"> 
   <kbd>
     <img src="pubmed/screenshots/sp.png">
